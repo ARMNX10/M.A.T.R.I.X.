@@ -22,7 +22,7 @@ Desktop AI Assistant
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MATRIX-AI-Desktop-Assistant.git
+   git clone https://github.com/ARMNX10/M.A.T.R.I.X..git
 2. Navigate to Directory
 3. Install the required dependencies:
     ```bash
